@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\WpfApp8\WpfApp8\obj\Debug\net5.0-windows\GraphApp.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\WpfApp8\WpfApp8\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Vlad\source\repos\WpfApp8\WpfApp8\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Vlad\source\repos\WpfApp8\WpfApp8\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Vlad\source\repos\WpfApp8\WpfApp8\obj\Debug\net5.0-windows\GraphApp_MarkupCompile.cache
+C:\Users\Vlad\source\repos\WpfApp8\WpfApp8\obj\Debug\net5.0-windows\GraphApp.g.resources
+C:\Users\Vlad\source\repos\WpfApp8\WpfApp8\obj\Debug\net5.0-windows\GraphApp.csproj.GenerateResource.cache
